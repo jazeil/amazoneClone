@@ -5,6 +5,9 @@
     font-family: Arial, sans-serif;
     box-sizing: border-box;
 }
+body{
+    overflow-x: hidden;
+}
 .navbar{
     background-color: #0f1111;
     height: 60px;
